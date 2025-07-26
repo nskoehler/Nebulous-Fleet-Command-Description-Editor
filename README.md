@@ -15,12 +15,12 @@ When the editor is initialized, type "Test" on six different lines with the foll
 5. Fifth 'Test' string has a different color from the default.
 6. Sixth 'Test' string has a different size from the default.
 
-Once you have inserted this into the editor, run the translator and see if the output contains the following commands:
+Once you have inserted this into the editor, run the translator and see if the output contains the following commands (without the spaces between <> or ; as those are there to prevent the readme from registering those as actual commands:
 
-1. &lt;i&gt;
-2. &lt;b&gt;
-3. &lt;color=___&gt; (as a hex code)
-4. &lt;size=___%&gt;
-5. <description>
+1. &lt ;i&gt ;
+2. &lt ;b&gt ;
+3. &lt ;color=___&gt ; (as a hex code)
+4. &lt ;size=___%&gt ;
+5. < description >
 
 Should it have all five of those present, then the editor is working properly.
