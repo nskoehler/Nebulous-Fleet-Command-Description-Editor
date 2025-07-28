@@ -1,7 +1,7 @@
 # Nebulous-Fleet-Command-Description-Editor
 This is the official repository for the Nebulous: Fleet Command Text Editor
 
-The Nebulous Fleet Command Description Editor is a Text Editor designed for use with the game Nebulous: Fleet Command. It allows you to input text with different colors, sizes and typographs, exporting them in a manner that can simply be copy pasted into the .fleet file of one's choice between the <FactionKey> and <SortOverrideOrder> tags at the start of file (usually at lines 6-7 respectively).
+The Nebulous Fleet Command Description Editor is a Text Editor designed for use with the game Nebulous: Fleet Command. It allows you to input text with different colors, sizes and typographs, exporting them in a manner that can simply be copy pasted into the .fleet file of one's choice between the < FactionKey > and < SortOverrideOrder > tags at the start of file (usually at lines 6-7 respectively).
 
 You need python to run the files, and to run the editor properly ensure you initialize from NDE_Main.py specifically.
 
