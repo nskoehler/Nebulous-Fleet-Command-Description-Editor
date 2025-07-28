@@ -10,9 +10,20 @@ There are two ways to install and run this code. For those who use VS Code:
 2. Download this code from github.
 3. From VS Code, open the NDE_Main.py and run the file.
 4. The file should run from there. Once you get the output, you can open the fleet file using VS Code or another text editor and add the description to the fleet file using the instructions provided in the editor.
+   (If you have Python you can skip the VS Code part by just opening the NDE_Main.py using python.)
 
 If you are a user who does not use VS Code, you can alternatively do the following:
-1. 
+1. Clone the repository by typing the following into the command prompt (ensure you have Python installed):
+   git clone https://github.com/nskoehler/Nebulous-Fleet-Command-Description-Editor.git
+   cd Nebulous-Fleet-Command-Description-Editor
+2. Once installed, you can run the .py file by double clicking it in the files location, or alternatively if you open windows terminal, you can use this to run from the terminal:
+   cd path\to\Nebulous-Fleet-Command-Description-Editor
+   python NDE_Main.py
+
+   (If you are a macOS/Linux user, type in this instead):
+   cd /path/to/Nebulous-Fleet-Command-Description-Editor
+   python3 NDE_Main.py
+3. Once you have the translated output, you can open the fleet file in text editor (instructions on location in the program itself) and paste the code in there. It should then run in the game.
 
 To test whether or not the editor functions properly, you can follow the editor's instructions to test whether it functions in game. Alternatively, you can test by comparing the output with the following:
 
