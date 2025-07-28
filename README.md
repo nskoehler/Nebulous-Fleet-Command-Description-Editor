@@ -5,6 +5,11 @@ The Nebulous Fleet Command Description Editor is a Text Editor designed for use 
 
 You need python to run the files, and to run the editor properly ensure you initialize from NDE_Main.py specifically.
 
+For basic installation, simply do the following:
+Download the code from this github page.
+Use VS Code to open the NDE_Main.py and execute the program.
+Code will then run as intended.
+
 To test whether or not the editor functions properly, you can follow the editor's instructions to test whether it functions in game. Alternatively, you can test by comparing the output with the following:
 
 When the editor is initialized, type "Test" on six different lines with the following edits where applicable:
